@@ -1,7 +1,9 @@
 ## dyimp.js
-ey ey ey!
-
 this is just another simple lib that might be help your life easier & more fun!
+
+```bash
+$ npm i dyimp
+```
 
 So, I dont like importing file like this
 
